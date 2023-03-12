@@ -1,6 +1,4 @@
-��#� �P�y�t�h�o�n�
-�
-�
+
 <head>
   <meta charset="UTF-8">
 </head>
@@ -30,5 +28,3 @@
 <h3>Contributing</h3>
 <p>Contributions to this repository are welcome! If you have any suggestions for additional algorithms, or if you find a bug in an existing implementation, please feel free to open an issue or submit a pull request.</p>
 
-<h3>License</h3>
-<p>This repository is licensed under the MIT License. See the LICENSE file for details.</p>
