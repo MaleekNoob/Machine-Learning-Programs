@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2c9fdaaf-e222-4f84-a302-dd0ac301cb5a" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/machine-learning-project-PyCharm.iml" afterDir="false" />
@@ -23,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2SlnOe3CWTKABwsiZ5bUclw5WvQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
