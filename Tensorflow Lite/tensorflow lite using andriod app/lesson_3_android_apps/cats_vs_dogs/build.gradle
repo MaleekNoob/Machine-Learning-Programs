@@ -7,7 +7,7 @@ dependencies {
 android {
     // ...
     aaptOptions {
-        noCompress "tflite"
+        noCompress "tflite" // Your TFLite model's file extension
     }
 }
 
